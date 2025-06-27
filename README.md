@@ -13,6 +13,7 @@ A simple and elegant file hosting web application built with Flask that allows u
 ## Screenshots
 
 ![image](static/assets/screenshot.png)
+
 The application features a clean, modern interface with:
 - Centered layout with soft shadows
 - Blue color scheme with hover animations
